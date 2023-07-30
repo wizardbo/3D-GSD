@@ -1,0 +1,10 @@
+[ Wed Apr 28 10:52:24 2021 ] Model total number of params: 3194595
+[ Wed Apr 28 10:52:24 2021 ] Loading weights from pretrained-models/ntu60-xsub-bone.pt
+[ Wed Apr 28 10:52:25 2021 ] Model:   model.msg3d.Model
+[ Wed Apr 28 10:52:25 2021 ] Weights: pretrained-models/ntu60-xsub-bone.pt
+[ Wed Apr 28 10:52:25 2021 ] Eval epoch: 1
+[ Wed Apr 28 15:49:42 2021 ] Model total number of params: 3194595
+[ Wed Apr 28 15:49:42 2021 ] Loading weights from pretrained-models/ntu60-xsub-bone.pt
+[ Wed Apr 28 15:49:43 2021 ] Model:   model.msg3d.Model
+[ Wed Apr 28 15:49:43 2021 ] Weights: pretrained-models/ntu60-xsub-bone.pt
+[ Wed Apr 28 15:49:43 2021 ] Eval epoch: 1

@@ -1,0 +1,28 @@
+[ Wed Apr 28 10:13:46 2021 ] Model total number of params: 3194595
+[ Wed Apr 28 10:13:46 2021 ] Loading weights from pretrained-models/ntu60-xsub-joint-fusion.pt
+[ Wed Apr 28 10:13:46 2021 ] 2 GPUs available, using DataParallel
+[ Wed Apr 28 10:15:18 2021 ] Model total number of params: 3194595
+[ Wed Apr 28 10:15:18 2021 ] Loading weights from pretrained-models/ntu60-xsub-joint-fusion.pt
+[ Wed Apr 28 10:15:18 2021 ] Model:   model.msg3d.Model
+[ Wed Apr 28 10:15:18 2021 ] Weights: pretrained-models/ntu60-xsub-joint-fusion.pt
+[ Wed Apr 28 10:15:18 2021 ] Eval epoch: 1
+[ Wed Apr 28 10:28:10 2021 ] Model total number of params: 3194595
+[ Wed Apr 28 10:28:10 2021 ] Loading weights from pretrained-models/ntu60-xsub-joint-fusion.pt
+[ Wed Apr 28 10:28:11 2021 ] Model:   model.msg3d.Model
+[ Wed Apr 28 10:28:11 2021 ] Weights: pretrained-models/ntu60-xsub-joint-fusion.pt
+[ Wed Apr 28 10:28:11 2021 ] Eval epoch: 1
+[ Wed Apr 28 10:34:52 2021 ] Model total number of params: 3194595
+[ Wed Apr 28 10:34:52 2021 ] Loading weights from pretrained-models/ntu60-xsub-joint-fusion.pt
+[ Wed Apr 28 10:34:53 2021 ] Model:   model.msg3d.Model
+[ Wed Apr 28 10:34:53 2021 ] Weights: pretrained-models/ntu60-xsub-joint-fusion.pt
+[ Wed Apr 28 10:34:53 2021 ] Eval epoch: 1
+[ Wed Apr 28 17:17:56 2021 ] Model total number of params: 3194595
+[ Wed Apr 28 17:17:56 2021 ] Loading weights from pretrained-models/ntu60-xsub-joint-fusion.pt
+[ Wed Apr 28 17:17:57 2021 ] Model:   model.msg3d.Model
+[ Wed Apr 28 17:17:57 2021 ] Weights: pretrained-models/ntu60-xsub-joint-fusion.pt
+[ Wed Apr 28 17:17:57 2021 ] Eval epoch: 1
+[ Wed Apr 28 17:23:12 2021 ] Model total number of params: 3194595
+[ Wed Apr 28 17:23:12 2021 ] Loading weights from pretrained-models/ntu60-xsub-joint-fusion.pt
+[ Wed Apr 28 17:23:13 2021 ] Model:   model.msg3d.Model
+[ Wed Apr 28 17:23:13 2021 ] Weights: pretrained-models/ntu60-xsub-joint-fusion.pt
+[ Wed Apr 28 17:23:13 2021 ] Eval epoch: 1
