@@ -199,24 +199,7 @@ python3 main.py
 This repo is based on
   - [2s-AGCN](https://github.com/lshiwjx/2s-AGCN)
   - [ST-GCN](https://github.com/yysijie/st-gcn)
+  - [MS-G3D](https://github.com/kenziyuliu/MS-G3D)
 
 Thanks to the original authors for their work!
 
-
-## Citation
-
-Please cite this work if you find it useful:
-
-```
-@inproceedings{liu2020disentangling,
-  title={Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition},
-  author={Liu, Ziyu and Zhang, Hongwen and Chen, Zhenghao and Wang, Zhiyong and Ouyang, Wanli},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={143--152},
-  year={2020}
-}
-```
-
-
-## Contact
-Please email `kenziyuliu AT outlook.com` for further questions
